@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="eButton">eNote</string>
+    <string name="fButton">fNote</string>
+    <string name="bButton">bNote</string>
+    <string name="Challenge2">Challenge 2</string>
+    <string name="Challenge5">Challenge 5</string>
+    <string name="Challenge7">Challenge 7</string>
+    <string name="Challenge12">Challenge 12</string>
+    <string name="button1">Reset Array</string>
+    <string name="button2">Start Song</string>
+    <string name="button3">Add</string>
+    <string name="button4">Add</string>
+    <string name="button5">Add</string>
+    <string name="button6">Add</string>
+    <string name="button7">Add</string>
+    <string name="button8">Add</string>
+    <string name="button9">Add</string>
+    <string name="button10">Add</string>
+    <string name="button11">Add</string>
+    <string name="button12">Add</string>
+    <string name="button13">Add</string>
+    <string name="button14">Add</string>
+    <string name="button15">Add</string>
+    <string name="button16">Add</string>
+    <string name="button17">Add</string>
+    <string name="button18">Add</string>
+</resources>
